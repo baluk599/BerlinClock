@@ -1,0 +1,44 @@
+﻿2020-03-08T20:53:24.5341447+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-03-08T20:53:24.5341447+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework clr40 in x86 mode execution started
+2020-03-08T20:53:24.5341447+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\lenovo\Desktop\DotNetBerlinClock-master\packages\SpecRun.Runner.3.1.48\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-03-08T20:53:24.5721215+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\lenovo\Desktop\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+2020-03-08T20:53:24.5721215+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\lenovo\Desktop\DotNetBerlinClock-master\TestResults" (default)
+2020-03-08T20:53:24.5731216+05:30;VSTestExecutionThread;Info;Profile: 
+2020-03-08T20:53:24.6210575+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\lenovo\Desktop\DotNetBerlinClock-master\TestResults\Unnamed project__2020-03-08T205324.log
+2020-03-08T20:53:24.6450439+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-03-08T20:53:24.6550360+05:30;Thread#14;Info;Checking license
+2020-03-08T20:53:24.6770241+05:30;Thread#14;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2020-03-08T20:53:38.6791938+05:30;Thread#14;Info;Evaluation delay finished.
+2020-03-08T20:53:38.6961776+05:30;Thread#14;Info;License check completed
+2020-03-08T20:53:38.6971772+05:30;Thread#14;Info;starting test run
+2020-03-08T20:53:38.7111703+05:30;Thread#14;Info;Discovering target: Default
+2020-03-08T20:53:38.7121676+05:30;Thread#14;Info;Discovering tests from assembly: C:\Users\lenovo\Desktop\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+2020-03-08T20:53:38.8930564+05:30;Thread#14;Info;Discovered tests from assembly: C:\Users\lenovo\Desktop\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+2020-03-08T20:53:38.8950557+05:30:Test Suite Dump
+2020-03-08T20:53:38.8990532+05:30:#0: Unnamed project/ - 
+2020-03-08T20:53:38.8990532+05:30:End: Test Suite Dump
+2020-03-08T20:53:38.9360304+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-03-08T20:53:38.9380294+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-03-08T20:53:38.9380294+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2020-03-08T20:53:38.9390286+05:30:Thread#0:Scheduler: No more tests for thread
+2020-03-08T20:53:38.9420270+05:30:Trying to cancel thread
+2020-03-08T20:53:38.9420270+05:30:Thread cancelled
+2020-03-08T20:53:38.9540199+05:30:Thread#-1:Scheduler: get next test for thread -1
+2020-03-08T20:53:38.9540199+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-03-08T20:53:38.9540199+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2020-03-08T20:53:38.9550192+05:30;Thread#14;Info;test run finished
+2020-03-08T20:53:38.9550192+05:30;Thread#14;Info;publishing test results
+2020-03-08T20:53:38.9630142+05:30;Thread#14;Info;test results published
+2020-03-08T20:53:38.9640133+05:30;Thread#14;Info;generating reports
+2020-03-08T20:53:39.0889380+05:30;Thread#14;Info;Starting external report generation process
+2020-03-08T20:53:41.4203372+05:30;Thread#14;Error;Could not generate test run result reports. An error occurred in the generator.
+2020-03-08T20:53:41.4233347+05:30;Thread#14;Error;External program returned exit code '-2'
+2020-03-08T20:53:41.4233347+05:30;Thread#14;Info;Failed generating reports
+2020-03-08T20:53:41.4343281+05:30:Total: 0
+2020-03-08T20:53:41.4373267+05:30:Succeeded: 0
+2020-03-08T20:53:41.4373267+05:30:Ignored: 0
+2020-03-08T20:53:41.4383257+05:30:Pending: 0
+2020-03-08T20:53:41.4393247+05:30:Skipped: 0
+2020-03-08T20:53:41.4393247+05:30:Failed: 0
+2020-03-08T20:53:41.4603126+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

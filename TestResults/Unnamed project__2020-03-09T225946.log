@@ -1,0 +1,44 @@
+﻿2020-03-09T22:59:46.0740100+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-03-09T22:59:46.0750094+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework clr40 in x86 mode execution started
+2020-03-09T22:59:46.0750094+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\lenovo\Desktop\Berlin Clock\BerlinClockProjects\Berlin-Clock\DotNetBerlinClock-master\packages\SpecRun.Runner.3.1.48\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-03-09T22:59:46.1379714+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\lenovo\Desktop\Berlin Clock\BerlinClockProjects\Berlin-Clock\DotNetBerlinClock-master\bin\Release\BerlinClock.dll
+2020-03-09T22:59:46.1379714+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\lenovo\Desktop\Berlin Clock\BerlinClockProjects\Berlin-Clock\DotNetBerlinClock-master\TestResults" (default)
+2020-03-09T22:59:46.1389701+05:30;VSTestExecutionThread;Info;Profile: 
+2020-03-09T22:59:46.2668917+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\lenovo\Desktop\Berlin Clock\BerlinClockProjects\Berlin-Clock\DotNetBerlinClock-master\TestResults\Unnamed project__2020-03-09T225946.log
+2020-03-09T22:59:46.3118641+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-03-09T22:59:46.3338510+05:30;Thread#14;Info;Checking license
+2020-03-09T22:59:46.4887563+05:30;Thread#14;Info;Evaluation mode: test execution starts in 5 seconds... (this delay is removed in the registered version)
+2020-03-09T22:59:51.4901984+05:30;Thread#14;Info;Evaluation delay finished.
+2020-03-09T22:59:51.5071882+05:30;Thread#14;Info;License check completed
+2020-03-09T22:59:51.5081829+05:30;Thread#14;Info;starting test run
+2020-03-09T22:59:51.5512062+05:30;Thread#14;Info;Discovering target: Default
+2020-03-09T22:59:51.5532060+05:30;Thread#14;Info;Discovering tests from assembly: C:\Users\lenovo\Desktop\Berlin Clock\BerlinClockProjects\Berlin-Clock\DotNetBerlinClock-master\bin\Release\BerlinClock.dll
+2020-03-09T22:59:51.9559588+05:30;Thread#14;Info;Discovered tests from assembly: C:\Users\lenovo\Desktop\Berlin Clock\BerlinClockProjects\Berlin-Clock\DotNetBerlinClock-master\bin\Release\BerlinClock.dll
+2020-03-09T22:59:51.9589568+05:30:Test Suite Dump
+2020-03-09T22:59:51.9629542+05:30:#0: Unnamed project/ - 
+2020-03-09T22:59:51.9629542+05:30:End: Test Suite Dump
+2020-03-09T22:59:52.1030223+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-03-09T22:59:52.1080186+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-03-09T22:59:52.1080186+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2020-03-09T22:59:52.1080186+05:30:Thread#0:Scheduler: No more tests for thread
+2020-03-09T22:59:52.1170142+05:30:Trying to cancel thread
+2020-03-09T22:59:52.1170142+05:30:Thread cancelled
+2020-03-09T22:59:52.1399985+05:30:Thread#-1:Scheduler: get next test for thread -1
+2020-03-09T22:59:52.1409983+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-03-09T22:59:52.1409983+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2020-03-09T22:59:52.1439973+05:30;Thread#14;Info;test run finished
+2020-03-09T22:59:52.1449973+05:30;Thread#14;Info;publishing test results
+2020-03-09T22:59:52.1909689+05:30;Thread#14;Info;test results published
+2020-03-09T22:59:52.1919714+05:30;Thread#14;Info;generating reports
+2020-03-09T22:59:52.5235570+05:30;Thread#14;Info;Starting external report generation process
+2020-03-09T23:00:04.7861550+05:30;Thread#14;Error;Could not generate test run result reports. An error occurred in the generator.
+2020-03-09T23:00:04.7881554+05:30;Thread#14;Error;External program returned exit code '-2'
+2020-03-09T23:00:04.7891539+05:30;Thread#14;Info;Failed generating reports
+2020-03-09T23:00:04.8091426+05:30:Total: 0
+2020-03-09T23:00:04.8141396+05:30:Succeeded: 0
+2020-03-09T23:00:04.8161380+05:30:Ignored: 0
+2020-03-09T23:00:04.8171378+05:30:Pending: 0
+2020-03-09T23:00:04.8181371+05:30:Skipped: 0
+2020-03-09T23:00:04.8191366+05:30:Failed: 0
+2020-03-09T23:00:04.8511163+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

@@ -1,0 +1,15 @@
+﻿2020-03-09T00:42:39.9417973+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-03-09T00:42:39.9417973+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework clr40 in x86 mode execution started
+2020-03-09T00:42:39.9417973+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\lenovo\Desktop\DotNetBerlinClock-master\packages\SpecRun.Runner.3.1.48\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-03-09T00:42:39.9767765+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\lenovo\Desktop\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+2020-03-09T00:42:39.9787755+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\lenovo\Desktop\DotNetBerlinClock-master\TestResults" (default)
+2020-03-09T00:42:39.9787755+05:30;VSTestExecutionThread;Info;Profile: 
+2020-03-09T00:42:40.0157521+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\lenovo\Desktop\DotNetBerlinClock-master\TestResults\Unnamed project__2020-03-09T004239.log
+2020-03-09T00:42:40.0417395+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-03-09T00:42:40.0557278+05:30;Thread#13;Info;Checking license
+2020-03-09T00:42:40.1196903+05:30;Thread#13;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2020-03-09T00:42:47.1224063+05:30;Thread#13;Info;Evaluation delay finished.
+2020-03-09T00:42:47.1323938+05:30;Thread#13;Info;License check completed
+2020-03-09T00:42:47.1333929+05:30;Thread#13;Info;starting test run
+2020-03-09T00:42:47.1593700+05:30;Thread#13;Info;Discovering target: Default
+2020-03-09T00:42:47.1623695+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\lenovo\Desktop\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
